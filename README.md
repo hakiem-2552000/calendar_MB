@@ -1,6 +1,5 @@
-# hui_app
+# CALENDAR MASTER BRANCH TEST
 
-Hui Application
 
 ## Getting Started
 
